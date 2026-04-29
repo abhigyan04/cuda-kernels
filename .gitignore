@@ -1,0 +1,7 @@
+build/
+*.exe
+*.exp
+*.lib
+*.obj
+*.pdb
+.vscode/
